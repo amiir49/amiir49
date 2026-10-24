@@ -1,0 +1,8 @@
+{
+  "name": "amiir49 Portfolio & Profile Hub",
+  "description": "Interactive developer portfolio, GitHub profile showcase, and README generator for amiir49 (Ayanle Abubaker).",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
